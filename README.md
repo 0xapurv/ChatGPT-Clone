@@ -1,4 +1,4 @@
-# chat_gpt_02
+# chat_gpt_clone
 
 A new Flutter project.
 
